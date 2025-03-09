@@ -1,0 +1,3 @@
+koko123;1;Top Food Drink Company;Food drink;topfooddrinkcompany@gmail.com;Fast Food Birthday Set Meal;123.12;
+koko123;2;Top Venue Company;Venue;topvenuecompany@gmail.com;Setapak, Kuala Lumpur;123;1123;
+koko123;3;Top Staff Company;Staff;topstaffcompany@gmail.com;400;
